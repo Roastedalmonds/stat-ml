@@ -4,5 +4,5 @@ f*a*2
 # this is a code block
 f+a
 head(iris)
-
+plot(iris)
 
